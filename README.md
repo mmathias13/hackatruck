@@ -1,0 +1,1 @@
+As pastas com o nome de "AulaXXUFES" são os "mini-projetos" que desenvolvemos no Hackatruck. Já a pasta "Padato/Padato (2)" é onde está o aplicativo Padato. A pasta "Apresentação" é a pasta onde se encontra a apresentação detalhada do aplicativo.  
