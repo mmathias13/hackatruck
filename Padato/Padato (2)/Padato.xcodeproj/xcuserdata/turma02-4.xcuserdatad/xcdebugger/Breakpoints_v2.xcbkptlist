@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C04E32B-EB0F-46E7-BB25-E8ABE0AAC4EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B0B5D93-4517-4E3F-AB4B-76FADBCFE51F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padato/FlashCards/RespostaCartaoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0B0B5D93-4517-4E3F-AB4B-76FADBCFE51F - b957e19842fa75a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "0B0B5D93-4517-4E3F-AB4B-76FADBCFE51F - 5a3cd78e0b4ff503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; Padato.PerguntaCartaoView in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "943AD178-C96F-4C58-9E85-D29CD2A3D201"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padato/FlashCards/RespostaCartaoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "943AD178-C96F-4C58-9E85-D29CD2A3D201 - 5a3cd78e0b4ff503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; Padato.PerguntaCartaoView in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "943AD178-C96F-4C58-9E85-D29CD2A3D201 - b957e19842fa7551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30F85E9F-B9A4-47AD-945F-38DFD849DB48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padato/FlashCards/RespostaCartaoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "30F85E9F-B9A4-47AD-945F-38DFD849DB48 - 9f63eb1b75dfef07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI._ConditionalContent&lt;Padato.PerguntaCartaoView, Padato.SelecionarBaralhos&gt; in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "30F85E9F-B9A4-47AD-945F-38DFD849DB48 - 8b909d47af9246e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI._ConditionalContent&lt;Padato.PerguntaCartaoView, Padato.SelecionarBaralhos&gt; in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BE7DD1B-B63C-4599-83A1-1FC696F277DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padato/FlashCards/RespostaCartaoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2BE7DD1B-B63C-4599-83A1-1FC696F277DF - 9f63eb1b75dfef24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI._ConditionalContent&lt;Padato.PerguntaCartaoView, Padato.SelecionarBaralhos&gt; in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "2BE7DD1B-B63C-4599-83A1-1FC696F277DF - 8b909d47af924680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI._ConditionalContent&lt;Padato.PerguntaCartaoView, Padato.SelecionarBaralhos&gt; in Padato.RespostaCartaoView.body.getter : some"
+                  moduleName = "Padato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma02-4/Downloads/Padato%202/Padato/FlashCards/RespostaCartaoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
